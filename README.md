@@ -21,6 +21,6 @@ The sensors are installed to collect the below data
 
 ![Alt text](Simulation.png?raw=true "Simulation.png")
 
-# Model Evaluation
+# Model Selection
 
 ![Alt text](ModelEvaluation.png?raw=true "ModelEvaluation.png")
